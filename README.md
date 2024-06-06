@@ -1,0 +1,1 @@
+In this project we would be using CIFAR-10 dataset to classify images into one of ten predefined categories ('airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck') using Deep Learning models.
